@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinMediaPlayer</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_player">PlayerActivity</string>
+
+    <string name="title_activity_fullscreen_activityssss">FullscreenActivityssss</string>
+
+    <string name="title_activity_td">Td</string>
+</resources>
